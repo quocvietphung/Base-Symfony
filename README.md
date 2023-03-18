@@ -1,2 +1,9 @@
-# Docker-Symfony
-Docker Symfony 
+# Symfony
+Symfony 6 
+
+# Start symfony 
+
+```sh
+symfony server:start
+```
+
